@@ -1,4 +1,4 @@
-CREATE TABLE Customers (
+CREATE TABLE users (
 ID CHAR(10) NOT NULL Primary key,
 Name CHAR(25) NOT NULL,
 Last_name CHAR(25) NULL,
